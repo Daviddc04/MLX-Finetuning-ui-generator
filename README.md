@@ -13,9 +13,9 @@ to the base model and use that finetuned model.
 
 **🎥 Watch the demo (Very simple example):** https://www.loom.com/share/528e8e2b101d4f3fa6a2acf85e961c2d?sid=d6cae6f7-b0b4-4686-b336-dc9133a72bbb
 
-## Instructions:
+# Instructions:
 
-# Setting up Backend:
+## Setting up Backend:
 
 cd backend
 python -m venv venv
@@ -29,16 +29,16 @@ conda create -n new_env python=3.12
 conda activate new_env
 pip install -r requirements.txt
 
-# Setting up Frontend:
+## Setting up Frontend:
 
 cd frontend
 npm install
 
-# TO RUN : 
-# cd backend -> python app.py 
-# cd frontend -> npm start
+### TO RUN : 
+### cd backend -> python app.py 
+### cd frontend -> npm start
 
-# Features Coming:
+## Features Coming:
 - Docker Support
 - A describe chat for the agent which will allow you to create the personality of the finetuned AI
 
