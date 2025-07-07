@@ -1,0 +1,6 @@
+mlx-lm @ git+https://github.com/ml-explore/mlx-lm.git
+transformers>=4.40.0
+accelerate
+numpy
+scipy
+flask-cors

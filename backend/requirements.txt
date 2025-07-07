@@ -1,0 +1,13 @@
+#requirements.txt
+
+flask
+flask-cors
+python-dotenv
+transformers
+scikit-learn
+numpy
+pandas
+tqdm
+mlx-lm
+
+# You will also have to install TailwindCSS
